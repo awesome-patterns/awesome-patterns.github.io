@@ -5,6 +5,7 @@
 
 ### 2. Enterprise Integration Patterns
 - [Messaging Patterns](https://www.enterpriseintegrationpatterns.com/patterns/messaging/index.html) 
+- [Conversation Patterns](https://www.enterpriseintegrationpatterns.com/patterns/conversation/index.html)
 
 ### 3. Enterprise Java Patterns
 - [Oracle TechNet Catalog](http://www.oracle.com/technetwork/java/catalog-137601.html)
